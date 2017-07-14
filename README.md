@@ -8,4 +8,6 @@
 
 ### Register and Log in features
 
+## This project has been built using Laravel framework.
+
 ### Download and Enjoy
